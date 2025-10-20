@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+Langchain
+Langchain-Core
+python-dotenv
+google-generativeai

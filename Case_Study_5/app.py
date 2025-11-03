@@ -6,7 +6,7 @@ import os
 # ------------------------
 # 1️⃣ Setup
 # ------------------------
-st.title("Summarizer Tool (Gemini 2.5)")
+st.title("Summarizer Tool using Gemini 2.5")
 st.write("This app uses Gemini 2.5 to summarize famous research papers in different styles.")
 
 # Load environment variables
